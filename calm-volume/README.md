@@ -1,4 +1,4 @@
-# 2026-10-05 · Calm volume does not keep the same sign
+# Bad strategy
 
 The idea is that a month of jumpy, uneven trading volume means informed traders were busy, so the next month is weaker.
 

@@ -1,4 +1,4 @@
-# 2026-10-05 · The jumpy stocks made more money
+# Good strategy
 
 The idea was that a stock which usually moves less than the others is the calmer one to own, and that calm should be the better bet. On this book the jumpy stocks made more money.
 

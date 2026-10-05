@@ -1,4 +1,4 @@
-# 2026-10-05 · The night holds the return
+# Bad strategy
 
 The idea is that a stock's gain arrives overnight, while the market is shut, rather than during the trading day.
 

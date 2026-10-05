@@ -1,4 +1,4 @@
-# 2026-10-05 · The option gap does not keep the same sign
+# Bad strategy
 
 The idea is that when options price more movement than a stock just had, that richness says something about the next month.
 
@@ -6,7 +6,7 @@ The strategy is the rich third. Each month, hold the stocks whose options priced
 
 The file is 23 months, from September 2024 to August 2026. A **bold** row is a judge. Passing here is a lead. It is not a keep.
 
-![The option gap does not keep the same sign](scorecard.png)
+![Bad strategy](scorecard.png)
 
 How one dollar grew. Red is the rich third. Grey is every ranked name. The dashed line is the S&P 500. Green is the cheap third.
 
@@ -30,9 +30,9 @@ No fee. The S&P line is the price index, close to close, on the same months, wit
 | **Worst fall.** The deepest drop from a peak. Smaller is better. | **−9.3%** | **−9.3%** |
 | Every ranked name | −7.1% | −7.1% |
 | S&P 500 | −5.9% | −7.7% |
-| **Both halves.** Split the history in two. The money has to beat every ranked name in both. | **No** | **No** |
+| **Won in both parts.** The two years are cut in the middle. Each part has to make more money than owning every name. | **No** | **No** |
 
-The two halves disagree, so the option gap does not keep a sign. Over the whole file the rich third finished a little ahead of every name, $2.18 against $1.96, and the Sharpe was higher, 2.34 against 2.03. Over the last year it finished behind, $1.22 against $1.27, and the Sharpe was lower, 1.26 against 1.39. Rich beat cheap in 11 of 23 months. That is a coin. The worst fall was a little deeper than both benchmarks.
+The two years are cut in the middle. In one part the rich group made more than owning every name. In the other part it made less. It has to win in both parts. It did not. Over the whole file it finished a little ahead, $2.18 against $1.96. Over the last year it finished behind, $1.22 against $1.27. Rich beat cheap in 11 of 23 months. That is a coin toss.
 
 Against the S&P 500 the money won in both halves, and the Sharpe won in both windows. Every ranked name also beat the S&P, $1.96 against $1.33, so that gap is this list in a strong two years, not the option gap.
 

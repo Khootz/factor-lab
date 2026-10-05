@@ -1,4 +1,4 @@
-# 2026-10-05 · Momentum
+# Good strategy
 
 The idea is that a stock which rose over the past year tends to rise again next month.
 
