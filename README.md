@@ -4,6 +4,7 @@ Each test lives in its own folder. Open a folder to see its charts. No transacti
 
 Newest first.
 
+- [2026-10-05 · Residual momentum led at the next session's average price](momentum-minute/)
 - [2026-10-05 · A strong past year was followed by a stronger month](momentum/)
 - [2026-10-05 · Calm volume does not keep the same sign](calm-volume/)
 - [2026-10-05 · The night holds the return](night-and-day/)
