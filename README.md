@@ -4,6 +4,7 @@ Each test lives in its own folder. Open a folder to see its charts. No transacti
 
 Newest first.
 
+- [Bad strategy · the biggest up-day](biggest-up-day/)
 - [Bad strategy · the opening range](opening-range/)
 - [Bad strategy · implied vol](iv-premium/)
 - [Good strategy · jumpy stocks](low-beta/)
