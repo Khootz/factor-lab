@@ -1,0 +1,11 @@
+# 2026-10-05 · The night holds the return
+
+![The night holds the return](scorecard.png)
+
+How one dollar grew. Green is the night, red is the day, grey is holding.
+
+![Growth of one dollar](growth.png)
+
+Each name over the last ten years. A green bar means the night earned more than the day.
+
+![Each name](by-name.png)
