@@ -41,3 +41,5 @@ Against the S&P 500 the money won in both halves, and the Sharpe won in both win
 The rich third was a small sleeve. 1385-HK sat in it in 22 of 23 months, 0780-HK in 19, Weibo in 16 and Grab in 15.
 
 Across the whole file the rich third's options were about 14 percentage points of yearly volatility above the move just seen. The cheap third was about 14 points below. The return gap from that difference did not hold from one half of the file to the other.
+
+**Bad strategy.** It beat the S&P 500, and it did not beat our benchmark, owning every name. Over the last year one dollar became $1.22, against $1.27 from owning every name.

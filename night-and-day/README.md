@@ -11,3 +11,5 @@ How one dollar grew. Green is the night, red is the day, grey is holding.
 Each name over the last ten years. A green bar means the night earned more than the day.
 
 ![Each name](by-name.png)
+
+**Bad strategy.** It did not beat our benchmark, which is just holding the stocks. After the cost of trading every night, one dollar became $0.97, against $126 from holding.

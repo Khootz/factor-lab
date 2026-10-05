@@ -40,3 +40,5 @@ No fee. The strong basket against holding every name in that same test. Sharpe u
 The ten-year column is the simple rule on about 45 names. The two two-year columns use the same 24 months and the same minute-tape names, so they can be compared with each other. The 49% year and the 31% year cannot. Those were different markets.
 
 Since 2006 the simple strong basket returned +27.6% a year, one dollar became $153, the worst fall was −53.9%, Sharpe was 1.17, and alpha was +5.3% a year. Every name returned +20.6%, one dollar became $48, the worst fall was −47.6%, and Sharpe was 1.09. The strong side beat the weak side in 146 of 248 months.
+
+**Good strategy.** It beat our benchmark, owning every name, and it beat the S&P 500. Since 2006 one dollar became $153, against $48 from owning every name and $6 from the S&P 500.

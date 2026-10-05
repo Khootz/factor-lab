@@ -54,3 +54,5 @@ Beta is how much a stock moved with the other names over the prior year. The sto
 The calm third was a defensive sleeve. XLU sat in it in 251 of 253 months, SPY in 227, Barrick in 201, 0823-HK in 200, Nike in 193 and Chevron in 176.
 
 The last year's +96% includes a few very large months, among them SanDisk, Micron and AMD. The ten-year window and the history since 2005 are the result.
+
+**Good strategy.** It beat our benchmark, owning every name, and it beat the S&P 500. Since 2005 one dollar became $190, against $54 from owning every name and $6 from the S&P 500.
