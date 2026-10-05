@@ -1,51 +1,51 @@
-# 2026-10-05 · High beta was followed by a stronger month
+# 2026-10-05 · The jumpy stocks made more money
 
-The idea is that a stock which usually moves less than the others is the calmer one to own, and that calm should be the better bet.
+The idea was that a stock which usually moves less than the others is the calmer one to own, and that calm should be the better bet. On this book the jumpy stocks made more money.
 
-Low beta does not have an edge on this book. The low third trailed in both halves of the last year, the last ten years, and the full history. Holding the high third instead made more money, and that is still not an edge against owning every ranked name. Over the full history the extra return was about the extra bounce, and the ride was no smoother.
+The strategy is the jumpy third. Each month, hold the stocks that have been moving around more than the others. The benchmark is owning every ranked stock, an equal amount of each. That is the grey line. The green line is the calm third, the group the idea expected to win.
 
-![High beta was followed by a stronger month](scorecard.png)
+A **bold** row is a judge. The strategy works on that row when it beats the benchmark. More money is better. A higher Sharpe is a smoother ride. A smaller worst fall is better.
 
-How one dollar grew. Green is the low-beta third, red is the high-beta third, grey is every ranked name.
+![The jumpy stocks made more money](scorecard.png)
+
+How one dollar grew. Red is the strategy. Grey is the benchmark. Green is the calm group.
 
 ![How one dollar grew](growth.png)
 
-## The numbers
+## The judges
 
-No fee. At each month-end, beta is how much the name moved with the other names over the prior year of daily returns. The name is left out of that book. Inside the United States, and inside Hong Kong, the lowest third is held against the highest third for the next month. A listing with fewer than nine names that month is not ranked. Taiwan, Japan, Amsterdam and London are in that group here. They still sit in the book the beta is measured against.
-
-Sharpe uses each month's ups and downs, and cash earns nothing. Alpha is the yearly extra in the low third after giving credit for how much it bounced with every ranked name. Beta near 1 means it bounced about as much as every ranked name. Return per unit of fall is the yearly return divided by the worst fall.
+No fee. The bold rows decide the page. The line under each one is the benchmark.
 
 | | Last year | Last ten years | Since 2005 |
 |---|---:|---:|---:|
-| Months | 13 | 120 | 253 |
-| Low third, yearly return | +14.6% | +16.7% | +15.2% |
-| Every ranked name, yearly return | +30.0% | +22.8% | +20.8% |
-| High third, yearly return | +96.3% | +36.3% | +28.2% |
-| Low third, one dollar became | $1.16 | $4.68 | $19.85 |
-| Every ranked name, one dollar became | $1.33 | $7.82 | $54.15 |
-| High third, one dollar became | $2.07 | $22.13 | $189.54 |
-| Low third, worst fall | −5.5% | −21.4% | −37.8% |
-| Every ranked name, worst fall | −8.7% | −25.2% | −48.9% |
-| High third, worst fall | −15.4% | −34.9% | −62.9% |
-| Low third, return per unit of fall | 2.63 | 0.78 | 0.40 |
-| Every ranked name, return per unit of fall | 3.46 | 0.90 | 0.43 |
-| High third, return per unit of fall | 6.27 | 1.04 | 0.45 |
-| Low third, Sharpe | 1.06 | 1.09 | 0.99 |
-| Every ranked name, Sharpe | 1.33 | 1.19 | 1.07 |
-| High third, Sharpe | 1.66 | 1.19 | 0.97 |
-| Alpha of the low third versus every ranked name | +4.2% a year | +1.8% a year | +1.5% a year |
-| Beta of the low third versus every ranked name | 0.36 | 0.66 | 0.66 |
-| Alpha of the high third versus every ranked name | +22.6% a year | +3.4% a year | −0.4% a year |
-| Beta of the high third versus every ranked name | 1.97 | 1.43 | 1.43 |
-| Mean beta in the low third | 0.42 | 0.46 | 0.51 |
-| Mean beta in the high third | 1.63 | 1.53 | 1.46 |
-| Low third, worst month | −5.5% | −12.0% | −22.7% |
-| Low third, months that made money | 9 of 13 | 76 of 120 | 158 of 253 |
-| Months the low side beat the high side | 4 of 13 | 48 of 120 | 108 of 253 |
+| **One dollar became.** What $1 grew into. | **$2.07** | **$22.13** | **$189.54** |
+| Benchmark. Owning every ranked name. | $1.33 | $7.82 | $54.15 |
+| **Yearly return.** That same money, as a pace per year. | **+96.3%** | **+36.3%** | **+28.2%** |
+| Benchmark | +30.0% | +22.8% | +20.8% |
+| **Sharpe.** Higher means a smoother ride for the return you got. | **1.66** | **1.19** | **0.97** |
+| Benchmark | 1.33 | 1.19 | 1.07 |
+| **Worst fall.** The deepest drop from a peak. Smaller is better. | **−15.4%** | **−34.9%** | **−62.9%** |
+| Benchmark | −8.7% | −25.2% | −48.9% |
+| **Both halves.** Split the history in two. The money has to win in both. | **Yes** | **Yes** | **Yes** |
 
-Over ten years the high third's Sharpe matches the book, at 1.19. Since 2005 the book's Sharpe is 1.07, and both thirds are below that. The high third made more money because it bounced more. After giving credit for that bounce, the high third's alpha is +3.4% a year over ten years, positive in both halves of those ten years, and −0.4% a year since 2005. The first half of the full history is negative. The low third's alpha is +1.8% a year over ten years and +1.5% since 2005. The low third still made less money, and its return per unit of fall is lower than the book's.
+The jumpy third made more money than the benchmark, in both halves of every window. The ride did not win. Over ten years the Sharpe ties the benchmark, at 1.19. Since 2005 the benchmark is smoother, 1.07 against 0.97. The worst fall was deeper every time.
 
-The low third is a defensive sleeve. XLU sat in it in 251 of 253 months, SPY in 227, B in 201, 0823-HK in 200, NKE in 193 and CVX in 176.
+The money judges pass. The ride judges do not. It beat the calm third, and it ended richer than owning everything, on a rougher ride.
 
-The last year's +96% in the high third is a few very large months, including SNDK, MU and AMD. The ten-year result and the full history agree with each other, and they are the result.
+## The rest
+
+These rows are context. They are not the judges.
+
+| | Last year | Last ten years | Since 2005 |
+|---|---:|---:|---:|
+| Months the jumpy third beat the benchmark | 9 of 13 | 73 of 120 | 146 of 253 |
+| Jumpy third minus the benchmark, a month | +4.20 pp | +1.09 pp | +0.72 pp |
+| Alpha. Yearly extra after crediting the extra bounce. | +22.6% | +3.4% | −0.4% |
+| Beta versus the benchmark. 1.43 means it bounced 1.43 times as much. | 1.97 | 1.43 | 1.43 |
+| Calm third, one dollar became | $1.16 | $4.68 | $19.85 |
+
+Beta is how much a stock moved with the other names over the prior year. The stock itself is left out of that count. The rank is inside the United States and inside Hong Kong. A listing with fewer than nine names that month is not put in either third.
+
+The calm third was a defensive sleeve. XLU sat in it in 251 of 253 months, SPY in 227, Barrick in 201, 0823-HK in 200, Nike in 193 and Chevron in 176.
+
+The last year's +96% includes a few very large months, among them SanDisk, Micron and AMD. The ten-year window and the history since 2005 are the result.
