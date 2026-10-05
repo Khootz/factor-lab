@@ -8,6 +8,6 @@ Nothing here is a live weight, a trading signal, or a claim about a strategy som
 
 | Date | Question | Takeaway |
 |---|---|---|
-| 2026-10-05 | Does the return sit in the night, or in the trading day? | The night holds the return. Buying the close and selling the next open, every day, does not keep it after a 10 bp round trip. |
+| 2026-10-05 | Does the return sit in the night, or in the trading day? | The night holds the return. No transaction fee is included. |
 
 The note: [findings/2026-10-05-night-and-day.md](findings/2026-10-05-night-and-day.md).
