@@ -1,6 +1,8 @@
 # 2026-10-05 · High beta was followed by a stronger month
 
-Low beta does not have an edge on this book. The low third trailed in both halves of the last year, the last ten years, and the full history.
+The idea is that a stock which usually moves less than the others is the calmer one to own, and that calm should be the better bet.
+
+Low beta does not have an edge on this book. The low third trailed in both halves of the last year, the last ten years, and the full history. Holding the high third instead made more money, and that is still not an edge against owning every ranked name. Over the full history the extra return was about the extra bounce, and the ride was no smoother.
 
 ![High beta was followed by a stronger month](scorecard.png)
 
@@ -34,13 +36,15 @@ Sharpe uses each month's ups and downs, and cash earns nothing. Alpha is the yea
 | High third, Sharpe | 1.66 | 1.19 | 0.97 |
 | Alpha of the low third versus every ranked name | +4.2% a year | +1.8% a year | +1.5% a year |
 | Beta of the low third versus every ranked name | 0.36 | 0.66 | 0.66 |
+| Alpha of the high third versus every ranked name | +22.6% a year | +3.4% a year | −0.4% a year |
+| Beta of the high third versus every ranked name | 1.97 | 1.43 | 1.43 |
 | Mean beta in the low third | 0.42 | 0.46 | 0.51 |
 | Mean beta in the high third | 1.63 | 1.53 | 1.46 |
 | Low third, worst month | −5.5% | −12.0% | −22.7% |
 | Low third, months that made money | 9 of 13 | 76 of 120 | 158 of 253 |
 | Months the low side beat the high side | 4 of 13 | 48 of 120 | 108 of 253 |
 
-Over ten years the high third's Sharpe matches the book, at 1.19. Since 2005 the book's Sharpe is 1.07, and both thirds are below that. The high third made more money because it bounced more. That is the beta, not a separate edge. The low third's alpha, the extra after that bounce, is +1.8% a year over ten years and +1.5% since 2005. The low third still made less money, and its return per unit of fall is lower than the book's.
+Over ten years the high third's Sharpe matches the book, at 1.19. Since 2005 the book's Sharpe is 1.07, and both thirds are below that. The high third made more money because it bounced more. After giving credit for that bounce, the high third's alpha is +3.4% a year over ten years, positive in both halves of those ten years, and −0.4% a year since 2005. The first half of the full history is negative. The low third's alpha is +1.8% a year over ten years and +1.5% since 2005. The low third still made less money, and its return per unit of fall is lower than the book's.
 
 The low third is a defensive sleeve. XLU sat in it in 251 of 253 months, SPY in 227, B in 201, 0823-HK in 200, NKE in 193 and CVX in 176.
 

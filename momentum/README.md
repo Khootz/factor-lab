@@ -1,5 +1,7 @@
 # 2026-10-05 · Momentum
 
+The idea is that a stock which rose over the past year tends to rise again next month.
+
 The long test. A strong past year, then the next month, at the month-end close.
 
 ![A strong past year was followed by a stronger month](scorecard.png)

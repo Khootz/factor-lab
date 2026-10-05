@@ -1,5 +1,7 @@
 # 2026-10-05 · The night holds the return
 
+The idea is that a stock's gain arrives overnight, while the market is shut, rather than during the trading day.
+
 ![The night holds the return](scorecard.png)
 
 How one dollar grew. Green is the night, red is the day, grey is holding.
