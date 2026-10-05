@@ -4,6 +4,7 @@ Each test lives in its own folder. Open a folder to see its charts. No transacti
 
 Newest first.
 
+- [Bad strategy · the first candle](first-candle/)
 - [Bad strategy · calm on bad days](calm-on-bad-days/)
 - [Bad strategy · the biggest up-day](biggest-up-day/)
 - [Bad strategy · the opening range](opening-range/)
